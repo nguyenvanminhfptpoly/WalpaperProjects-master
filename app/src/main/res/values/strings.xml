@@ -25,7 +25,8 @@
     <string name="downcount" />
     <string name="downcount2">Download count</string>
     <string name="setwall">Set Wallpaper</string>
-   
+    <string name="setwalls">Set Wallpaper</string>
+
 
 
 </resources>
